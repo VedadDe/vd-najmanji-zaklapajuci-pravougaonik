@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/15 08:05:26.000.968,=C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2021/03/15 08:05:27.000.720,=C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2021/04/16 00:12:46.000.339,=C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2021/04/16 00:12:46.000.861,=C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2021/04/16 08:45:43.000.951,=C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2021/04/16 08:45:43.000.540,=C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2021/04/16 08:51:17.000.090,C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Unit4.h=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\main.h</Transaction>
+    <Transaction>2021/04/16 08:51:17.000.090,C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Unit4.dfm=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\main.dfm</Transaction>
+    <Transaction>2021/04/16 08:51:17.000.090,C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Unit4.cpp=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\main.cpp</Transaction>
+    <Transaction>2021/04/16 08:51:26.000.046,C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\UKGvjezbe.h</Transaction>
+    <Transaction>2021/04/16 08:51:34.000.606,C:\Users\Admir\Documents\Embarcadero\Studio\Projects\Project4.cbproj=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\Aplikacija.cbproj</Transaction>
+    <Transaction>2021/04/16 15:06:01.000.489,=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\Unit1.cpp</Transaction>
+    <Transaction>2021/04/16 15:06:14.000.620,D:\Fax-vjezbe\2020-2021\UKG - vjezbe\pomocna.cpp=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\Unit1.cpp</Transaction>
+    <Transaction>2021/04/16 15:06:14.000.620,D:\Fax-vjezbe\2020-2021\UKG - vjezbe\pomocna.h=D:\Fax-vjezbe\2020-2021\UKG - vjezbe\Unit1.h</Transaction>
+    <Transaction>2021/07/06 02:21:51.000.118,C:\Users\vedad\Desktop\UKG - vjezbe\Aplikacija.cbproj=C:\Users\vedad\Desktop\projeka_ukg\Aplikacija.cbproj</Transaction>
+    <Transaction>2021/07/06 14:39:14.000.561,C:\Users\vedad\Desktop\projeka_ukg\Aplikacija.cbproj=C:\Users\vedad\Desktop\projekat_ukg_vedad_delic\Aplikacija.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
